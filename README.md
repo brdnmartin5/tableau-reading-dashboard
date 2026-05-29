@@ -1,5 +1,7 @@
-## Overview
-This tableau dashboard analyzes personal reading habits, inlcuding genre preferences, author frequency, monthly reading trends, and average ratings across genres.
+## Reading Analytics Dashboard
+[View Interactive Tableau Dashboard](reading-analytics-dashboard.twb)
+![Dashboard Preview](reading-analytics-screenshot.png)
+This Tableau dashboard analyzes personal reading habits, inlcuding genre preferences, author frequency, monthly reading trends, and average ratings across genres.
 
 ## Tools Used
 - Tableau Public
